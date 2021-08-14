@@ -1,4 +1,5 @@
 import cv2
+import time
 
 class MyCamera:
 
